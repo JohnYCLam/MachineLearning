@@ -2,6 +2,6 @@ Learning Machine Learning Models
 1 - ANN
 2 - CNN with application in object detection, neural style transfer, etc.
 3 - (Bi-directional) RNN, GRU, LSTM with application in NLP
-4 - Reinforcement Learning with Dynamic Programming, Monte Carlo, TD Learning, Q Learning, Function Approximation, DQN, Policy Gradient
+4 - Reinforcement Learning: Multi-armed Bandits, Dynamic Programming, Monte Carlo, TD Learning, Q Learning, Function Approximation, DQN, Policy Gradient
 5 - Generative Models
 To be Continued ...
